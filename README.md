@@ -14,6 +14,6 @@ The correct going order is recommended as -
 The files have been made by me nevertheless but the sources which I reffered to while creating these are - 
 * <a href = "www.geeksforgeeks.org">GeeksforGeeks</a>
 * <a href = "www.w3Schools.com">w3Schools</a>
-* Numpy, Pandas, Maplotlip, Seaborn Documentations.
+* Numpy, Pandas, Maplotlib, Seaborn Documentations.
 
 ## Happy Learning :)
