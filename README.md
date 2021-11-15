@@ -16,4 +16,4 @@ The files have been made by me nevertheless but the sources which I reffered to 
 * <a href = "www.w3Schools.com">w3Schools
 * Numpy, Pandas, Maplotlip, Seaborn Documentations.
 
-$ \huge Happy Learning :) $
+## Happy Learning :)
