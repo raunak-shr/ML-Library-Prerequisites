@@ -30,6 +30,9 @@ The files have been made by me nevertheless but the sources which I referred to 
 * <a href = "www.w3Schools.com">w3Schools</a>
 * Numpy, Pandas, Maplotlib, Seaborn Documentations.
 
+## My Workspace
+<img src = "https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white"><img src = "https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src = "https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+
 ## Contact
 <a href = "https://www.linkedin.com/in/shreeyansh-das/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "mailto: raunak.dvm@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
