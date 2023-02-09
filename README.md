@@ -12,6 +12,7 @@
 <a href = "https://seaborn.pydata.org/"><img src = "https://img.shields.io/badge/Seaborn-3399FF?style=for-the-badge&logo=seaborn&logoColor=blue"></a>
 <a href = "https://www.latex-project.org/"><img src = "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
 <a href = "https://stackoverflow.com/"><img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href = "https://www.tensorflow.org/"><img src = "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"></a>
 
 
 Basic libraries needed to learn ML/DS are contained in this repo. A basic understanding of these is a must. Its recommended to try and run the codes by yourself to have a basic understanding. Writing the codes side-by-side will be very helpful. There are 2 formats for all the files - a Jupyter Notebook and a PDF of the same. Along with these there are some cheatsheets for quick reference. Feel free to lookup to them.
@@ -24,11 +25,13 @@ The correct going order is recommended as -
 * <a href = "https://github.com/raunak-shr/ML-Library-Prerequisites/blob/main/NumPy%20-%20II.ipynb">Pandas - II</a>
 * <a href = "https://github.com/raunak-shr/ML-Library-Prerequisites/blob/main/NumPy%20-%20III.ipynb">Pandas - III</a>
 * <a href = "https://github.com/raunak-shr/ML-Library-Prerequisites/blob/main/NumPy%20-%20IV.ipynb">Pandas - IV</a>
+* <a href = "https://github.com/raunak-shr/ML-Library-Prerequisites/blob/main/Tensorflow_I_Overview.ipynb">Tensorflow I - VI & Keras</a>
+
 
 The files have been made by me nevertheless but the sources which I referred to while creating these are - 
 * <a href = "www.geeksforgeeks.org">GeeksforGeeks</a>
 * <a href = "www.w3Schools.com">w3Schools</a>
-* Numpy, Pandas, Maplotlib, Seaborn Documentations.
+* Numpy, Pandas, Maplotlib, Seaborn, Tensorflow Documentations.
 
 ## My Workspace
 <img src = "https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white"><img src = "https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src = "https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
